@@ -5,3 +5,6 @@ An example project for creating a Qt5 GUI in C++ and deploying this application 
 ## GUI Screenshot
 
 Below is the screenshot of the application running on Yocto's core-image-sato build deployed on a Raspberry Pi-4B
+
+
+![GUI Image](https://github.com/shni9045/Qt5-Yocto/blob/main/GUI_Screenshot.jpg)
